@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.dahuangit.util.bean.dto.Dto"/>
+<fullyQualifiedTypeName name="com.dahuangit.seobi.proxy.dto.opm.response.ProxyResponse"/>
+<fullyQualifiedTypeName name="com.dahuangit.util.date.DateUtils"/>
+<fullyQualifiedTypeName name="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+</qualifiedTypeNameHistroy>

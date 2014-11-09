@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+E:\dahuang-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3880924522.index
+\seobi-webapp\src\main\resources
+E:\dahuang-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1829545670.index
+\iots-webapp\src\main\resources
+E:\dahuang-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1459296017.index
+\iots-webapp\src\main\resources
+E:\dahuang-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3203814036.index
+\iots-webapp\src\main\resources

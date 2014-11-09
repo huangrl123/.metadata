@@ -1,0 +1,49 @@
+function showProxyImpWin() {
+
+	var form = Ext.create('Ext.form.Panel', {
+				width : 400,
+				bodyPadding : 5,
+				frame : true,
+				items : [{
+							xtype : 'filefield',
+							name : 'multipartFile',
+							fieldLabel : '文件',
+							labelWidth : 50,
+							width : '100%',
+							buttonText : '选择代理服务器文件...'
+						}],
+
+				buttons : [{
+					text : '上传',
+					handler : function() {
+						var form = this.up('form').getForm();
+						if (form.isValid()) {
+							form.submit({
+										url : 'photo-upload.php',
+										waitMsg : 'Uploading your photo...',
+										success : function(fp, o) {
+											Ext.Msg.alert('Success', 'Your photo "' + o.result.file
+															+ '" has been uploaded.');
+										}
+									});
+						}
+					}
+				}, {
+					text : '取消',
+					handler : function() {
+						win.close();
+					}
+				}]
+			});
+
+	var win = Ext.create('Ext.Window', {
+				title : '导入代理服务器',
+				plain : true,
+				closable : true,
+				closeAction : 'destroy',
+				layout : 'fit',
+				items : [form]
+			});
+
+	win.show();
+}

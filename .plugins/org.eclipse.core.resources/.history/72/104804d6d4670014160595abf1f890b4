@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+	pageEncoding="utf-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>代理服务器管理</title>
+<script type="text/javascript" src="plugin/extjs/include-ext.js"></script>
+<script type="text/javascript" src="js/binding.js"></script>
+</head>
+<body>
+	<h1>Data Binding Example</h1>
+	<p>
+		This example expands upon the <a href="xml-grid.html">XML Grid
+			example</a> and shows how to implement data binding for a master-detail
+		view.
+	</p>
+	<p>
+		Note that the js is not minified so it is readable. See <a
+			href="binding.js">binding.js</a>.
+	</p>
+	<p>
+		You can find a more advanced example of the same code which abstracts
+		each piece of this simple application into multiple classes in <a
+			href="binding-with-classes.html">Data Binding Example -
+			Implemented with classes</a>.
+	</p>
+	<div id="binding-example"></div>
+</body>
+</html>

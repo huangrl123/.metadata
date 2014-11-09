@@ -1,0 +1,31 @@
+function showProxyImpWin() {
+	Ext.require(['Ext.window.Window', 'Ext.tab.*']);
+
+	
+	var win = Ext.create('Ext.Window', {
+				title : '导入代理服务器',
+				width : 480,
+				height : 120,
+				plain : true,
+				layout : 'fit',
+				items : [{
+							xtype : 'filefield',
+							name : 'multipartFile',
+							fieldLabel : '文件',
+							buttonText : '选择代理服务器文件...'
+						}],
+				buttons : [{
+							text : '上传',
+							handler : function() {
+								
+							}
+						}, {
+							text : '取消',
+							handler : function() {
+								win.close();
+							}
+						}]
+			});
+
+	win.show();
+}

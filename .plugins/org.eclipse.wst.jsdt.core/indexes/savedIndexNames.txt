@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+E:\dahuang-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3527705742.index
+2371682682.index
+2296260933.index
+2400997391.index
+641535708.index
