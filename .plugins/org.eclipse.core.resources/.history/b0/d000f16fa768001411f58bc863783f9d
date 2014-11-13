@@ -1,0 +1,10 @@
+package com.dahuangit.seobi.analyzer.controller;
+
+import org.springframework.stereotype.Controller;
+
+import com.dahuangit.base.controller.BaseController;
+
+@Controller
+public class SearchController extends BaseController {
+   
+}

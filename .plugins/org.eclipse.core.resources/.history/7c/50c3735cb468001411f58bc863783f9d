@@ -1,0 +1,7 @@
+package com.dahuangit.seobi.analyzer.util;
+
+public class BaiduUtils {
+	public static String searchByKey(String key) {
+
+	}
+}

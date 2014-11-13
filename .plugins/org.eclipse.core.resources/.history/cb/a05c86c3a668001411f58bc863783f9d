@@ -1,0 +1,8 @@
+package com.dahuangit.seobi.analyzer.dao;
+
+import com.dahuangit.base.dao.BaseDao;
+import com.dahuangit.seobi.analyzer.entry.SearchInfo;
+
+public class SearchInfoDao extends BaseDao<SearchInfo, Integer> {
+
+}

@@ -1,4 +1,10 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/eclipse-jee-kepler-RC3-win32/eclipse
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/Java/jdk1.6.0/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/Java/jdk1.6.0/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=D\:/eclipse-jee-kepler-RC3-win32/eclipse/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=d\:/apache-maven-3.0.5/.m2/repository
 org.eclipse.jdt.core.classpathVariable.TOMCAT_HOME=D\:/apache-tomcat-6.0.35
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled

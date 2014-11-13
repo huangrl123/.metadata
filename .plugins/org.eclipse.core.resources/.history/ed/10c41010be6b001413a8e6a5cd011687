@@ -1,0 +1,30 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import com.dahuangit.base.entry.BaseModel;
+import com.dahuangit.seobi.receiver.entry.QQTalkMsg;
+
+/**
+ * qq说说搜索关联关键字
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月14日 上午11:20:51
+ */
+@Entity
+@Table(name = "t_talk_msg_related_search_key")
+public class TalkRelatedSearchKey extends BaseModel {
+
+	/** 主键ID */
+	private Integer tmRskId = null;
+
+	/** 所属说说内容*/
+	private QQTalkMsg qqTalkMsg = null;
+	
+	/** 本条说说关键字所包含的所有词*/
+	private List<RelatedSearchKey> relatedSearchKeys = null;
+}

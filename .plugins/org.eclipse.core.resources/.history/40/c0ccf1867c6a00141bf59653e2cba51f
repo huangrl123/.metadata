@@ -1,0 +1,16 @@
+######################seobi-receiver.config########################
+receiver.authentication.password=111111
+
+######################seobi-proxy.config########################
+#quartz config
+#httpGetTestUrl=http://121.14.42.135:9000/seobi/spring/proxy/doGetMethodTest
+httpGetTestUrl=http://localhost:8080/seobi/spring/proxy/doGetMethodTest
+#httpPostTestUrl=http://121.14.42.135:9000/seobi/spring/proxy/doPostMethodTest
+httpPostTestUrl=http://localhost:8080/seobi/spring/proxy/doPostMethodTest
+#every 15 minute 1 time
+proxyTrigger.cronExpression=0 0/15 * * * ?
+#mina config
+proxy.nioSocketAcceptor.readBufferSize=4096
+proxy.nioSocketAcceptor.receiveBufferSize=1024
+
+

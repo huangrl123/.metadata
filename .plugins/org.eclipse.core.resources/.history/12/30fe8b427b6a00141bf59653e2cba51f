@@ -1,0 +1,9 @@
+######################seobi-receiver.config########################
+receiver.authentication.password=111111
+
+######################seobi-proxy.config########################
+#quartz config
+httpGetTestUrl=http://121.14.42.135:9000/seobi/spring/proxy/doGetMethodTest</value>
+
+			<value>http://localhost:8080/seobi/spring/proxy/doGetMethodTest</value>
+######################seobi-proxy.config########################

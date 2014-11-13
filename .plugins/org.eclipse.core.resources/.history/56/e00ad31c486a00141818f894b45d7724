@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING/DTD BEAN/EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<bean id="analyzeJobDetail" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject">
+			<ref bean="analyzeJobService" />
+		</property>
+		<property name="targetMethod">
+			<value>analyzeBaiduOriginarityPercent</value>
+		</property>
+	</bean>
+
+	<bean id="analyzeTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<property name="analyzeJobDetail">
+			<ref bean="analyzeJobDetail" />
+		</property>
+		<property name="cronExpression">
+			<!-- 每周星期天凌晨1点实行一次 -->
+			<value>0 0 1 ? * L</value>
+		</property>
+	</bean>
+
+	<bean id="analyzeScheduler" class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="analyzeTrigger" />
+			</list>
+		</property>
+	</bean>
+
+</beans>

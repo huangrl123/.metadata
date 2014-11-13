@@ -1,0 +1,11 @@
+package com.dahuangit.seobi.analyzer.service;
+
+public interface AnalyzeService {
+	/**
+	 * 获取百度原创度
+	 * 
+	 * @param content
+	 * @return
+	 */
+	double getBaiduOriginarityPercent(String content);
+}

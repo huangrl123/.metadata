@@ -1,0 +1,27 @@
+1415582333885	Delete element
+1415582510540	Delete element
+1415582526592	Rename package 'com.dahuang.seobi.analyzer.controller.dao'
+1415603025536	Rename type 'SearchController'
+1415603116689	Rename type 'AnalyzerController'
+1415608310745	Delete element
+1415620233646	Copy compilation unit
+1415620241436	Rename type 'AnalyzeController'
+1415621667788	Rename resource 'result.txt'
+1415621677797	Rename resource 'result.xml'
+1415621994581	Delete element
+1415715308191	Copy compilation unit
+1415763996428	Delete element
+1415764362995	Delete element
+1415764388067	Delete element
+1415764425142	Delete element
+1415775496703	Delete element
+1415775518668	Rename type 'SearchServiceImpl'
+1415775538028	Delete element
+1415779812602	Rename package 'com.dahuangit.seobi.analyzer.dto.orm'
+1415780111227	Rename resource 'proxy-castor-mapping.xml'
+1415780124674	Rename resource 'proxy-quartz-config.xml'
+1415930923838	Delete element
+1415935277566	Rename type 'QQShuoshuoKey'
+1415942251425	Rename type 'QQShuoshuoRelatedSearchKey'
+1415946391555	Copy compilation unit
+1415946919216	Rename method 'analyzeShuoshuoBaiduOriginatyPercent'

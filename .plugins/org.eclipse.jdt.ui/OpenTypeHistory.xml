@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=seobi-proxy/src\/main\/java&lt;com.dahuangit.seobi.proxy.entry{Proxy.java[Proxy" modifiers="1" timestamp="1415529434745"/>
-<typeInfo handle="=seobi-proxy/src\/main\/java&lt;com.dahuangit.seobi.proxy.dto.opm.response{ProxyResponse.java[ProxyResponse" modifiers="1" timestamp="1415521342668"/>
+<typeInfo handle="=dahuangit-base/src\/main\/java&lt;com.dahuangit.base.entry{BaseModel.java[BaseModel" modifiers="1025" timestamp="1415462041422"/>
+<typeInfo handle="=seobi-analyzer/src\/main\/java&lt;com.dahuangit.seobi.analyzer.service{AnalyzeService.java[AnalyzeService" modifiers="513" timestamp="1415780736452"/>
+<typeInfo handle="=dahuangit-base/src\/main\/java&lt;com.dahuangit.base.dao{BaseDao.java[BaseDao" modifiers="1" timestamp="1415797026381"/>
+<typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/commons-lang\/commons-lang\/2.5\/commons-lang-2.5.jar&lt;org.apache.commons.lang(StringUtils.class[StringUtils" modifiers="33" timestamp="1301289872000"/>
+<typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/org\/jodd\/jodd-core\/3.4.2\/jodd-core-3.4.2.jar&lt;jodd.util(MathUtil.class[MathUtil" modifiers="33" timestamp="1366590650390"/>
+<typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/commons-lang\/commons-lang\/2.5\/commons-lang-2.5.jar&lt;org.apache.commons.lang(ArrayUtils.class[ArrayUtils" modifiers="33" timestamp="1301289872000"/>
+<typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/commons-collections\/commons-collections\/3.2.1\/commons-collections-3.2.1.jar&lt;org.apache.commons.collections(ComparatorUtils.class[ComparatorUtils" modifiers="33" timestamp="1301289876000"/>
+<typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/commons-collections\/commons-collections\/3.2.1\/commons-collections-3.2.1.jar&lt;org.apache.commons.collections(ListUtils.class[ListUtils" modifiers="33" timestamp="1301289876000"/>
+<typeInfo handle="=dahuangit-util/src\/main\/java&lt;com.dahuangit.util{SortUtils.java[SortUtils" modifiers="1" timestamp="1415750038944"/>
+<typeInfo handle="=dahuangit-base/D:\/Java\/jdk1.6.0\/jre\/lib\/rt.jar&lt;java.lang(Double.class[Double" modifiers="49" timestamp="1328357807000"/>
+<typeInfo handle="=seobi-proxy/src\/main\/java&lt;com.dahuangit.seobi.proxy.entry{Proxy.java[Proxy" modifiers="1" timestamp="1415765589740"/>
+<typeInfo handle="=seobi-proxy/src\/main\/java&lt;com.dahuangit.seobi.proxy.dto.opm.response{ProxyResponse.java[ProxyResponse" modifiers="1" timestamp="1415769514078"/>
+<typeInfo handle="=dahuangit-base/src\/main\/java&lt;com.dahuangit.base.dto.oxm.response{OxResponse.java[OxResponse" modifiers="1" timestamp="1415462041422"/>
+<typeInfo handle="=dahuangit-util/src\/main\/java&lt;com.dahuangit.util.net.http{HttpKit.java[HttpKit" modifiers="1" timestamp="1415864038566"/>
 </typeInfoHistroy>

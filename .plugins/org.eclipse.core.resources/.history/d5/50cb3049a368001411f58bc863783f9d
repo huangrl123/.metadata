@@ -1,0 +1,27 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import com.dahuangit.base.entry.BaseModel;
+
+public class RelatedSearchKey extends BaseModel {
+//	SET FOREIGN_KEY_CHECKS=0;
+//
+//	-- ----------------------------
+//	-- Table structure for t_related_search_key
+//	-- ----------------------------
+//	DROP TABLE IF EXISTS `t_related_search_key`;
+//	CREATE TABLE `t_related_search_key` (
+//	  `rsk_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键',
+	   private Integer rskId = null;
+	   
+//	  `tm_id` int(11) NOT NULL COMMENT '说说ID',
+	
+//	  `related_searche_key` varchar(128) NOT NULL COMMENT '相关搜索的关键字',
+	
+//	  `last_modify_time` datetime NOT NULL COMMENT '最后修改时间',
+	
+//	  PRIMARY KEY (`rsk_id`),
+//	  KEY `FK_t_related_search_key_1` (`tm_id`),
+//	  CONSTRAINT `FK_t_related_search_key_1` FOREIGN KEY (`tm_id`) REFERENCES `t_talk_msg` (`TM_ID`)
+//	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='相关搜索关键字';
+
+}

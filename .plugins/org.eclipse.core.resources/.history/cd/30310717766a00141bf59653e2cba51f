@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING/DTD BEAN/EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<bean id="proxyJobService" class="com.dahuangit.seobi.proxy.service.impl.ProxyJobServiceImpl">
+		<property name="httpGetTestUrl">
+			<value>http://121.14.42.135:9000/seobi/spring/proxy/doGetMethodTest</value>
+		</property>
+		<property name="httpPostTestUrl">
+			<value>http://121.14.42.135:9000/seobi/spring/proxy/doPostMethodTest</value>
+		</property>
+		<property name="localHostIp">
+		    <value></value>
+		</property>
+	</bean>
+
+	<bean id="proxyJobDetail" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject">
+			<ref bean="proxyJobService" />
+		</property>
+		<property name="targetMethod">
+			<value>checkAndSetProxyStatus</value>
+		</property>
+	</bean>
+
+	<bean id="proxyTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<property name="jobDetail">
+			<ref bean="proxyJobDetail" />
+		</property>
+		<property name="cronExpression">
+			<!-- 每15分钟执行一次 -->
+			<value>0 0/15 * * * ?</value>
+		</property>
+	</bean>
+
+	<bean id="proxyScheduler" class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="proxyTrigger" />
+			</list>
+		</property>
+	</bean>
+
+</beans>

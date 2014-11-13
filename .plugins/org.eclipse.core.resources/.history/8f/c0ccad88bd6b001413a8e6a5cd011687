@@ -1,0 +1,21 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import com.dahuangit.base.entry.BaseModel;
+
+/**
+ * qq说说搜索关联关键字
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月14日 上午11:20:51
+ */
+@Entity
+@Table(name = "t_talk_msg_related_search_key")
+public class QQShuoshuoRelatedSearchKey extends BaseModel {
+	
+   private Integer tmRskId = null;
+   
+}

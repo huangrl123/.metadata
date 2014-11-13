@@ -1,0 +1,12 @@
+package com.dahuangit.util.net.http;
+
+/**
+ * 代理服务器返回的响应
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月13日 下午3:28:55
+ */
+public class ProxyResponse {
+   
+}

@@ -1,0 +1,13 @@
+package com.dahuangit.seobi.analyzer.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.dahuangit.base.controller.BaseController;
+
+@Controller
+@RequestMapping(value = "/Search", method = RequestMethod.POST)
+public class SearchController extends BaseController {
+   
+}

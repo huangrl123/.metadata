@@ -1,0 +1,126 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+
+import com.dahuangit.base.entry.BaseModel;
+import com.dahuangit.seobi.receiver.entry.QQTalkMsg;
+
+/**
+ * 搜索信息
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月10日 下午2:41:40
+ */
+@Entity
+@Table(name = "t_search_info")
+public class SearchInfo extends BaseModel {
+	/** 主键ID */
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "si_id")
+	private Integer sid = null;
+
+	/** qq说说信息 */
+	@ManyToOne
+	@JoinColumn(name = "tm_id", insertable = true, updatable = true)
+	private QQTalkMsg qqTalkMsg = null;
+
+	/** 搜索标题 */
+	@Column(name = "search_title")
+	private String searchTitle = null;
+
+	/** 搜索出的内容 */
+	@Column(name = "content")
+	private String content = null;
+
+	/** 地址 */
+	@Column(name = "url")
+	private String url = null;
+
+	/** 搜索引擎爬虫获取信息的时间 */
+	@Column(name = "se_time")
+	private Date seTime = null;
+
+	/** 最后修改时间 */
+	@Column(name = "last_modify_time")
+	private Date lastModifyTime = null;
+
+	/** 备注信息 */
+	@Column(name = "remark")
+	private String remark;
+
+	public Integer getSid() {
+		return sid;
+	}
+
+	public void setSid(Integer sid) {
+		this.sid = sid;
+	}
+
+	public String getSearchTitle() {
+		return searchTitle;
+	}
+
+	public void setSearchTitle(String searchTitle) {
+		this.searchTitle = searchTitle;
+	}
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+
+	public Date getSeTime() {
+		return seTime;
+	}
+
+	public void setSeTime(Date seTime) {
+		this.seTime = seTime;
+	}
+
+	public Date getLastModifyTime() {
+		return lastModifyTime;
+	}
+
+	public void setLastModifyTime(Date lastModifyTime) {
+		this.lastModifyTime = lastModifyTime;
+	}
+
+	public String getRemark() {
+		return remark;
+	}
+
+	public void setRemark(String remark) {
+		this.remark = remark;
+	}
+
+	public QQTalkMsg getQqTalkMsg() {
+		return qqTalkMsg;
+	}
+
+	public void setQqTalkMsg(QQTalkMsg qqTalkMsg) {
+		this.qqTalkMsg = qqTalkMsg;
+	}
+
+}

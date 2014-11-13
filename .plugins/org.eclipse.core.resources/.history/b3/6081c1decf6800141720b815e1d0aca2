@@ -1,0 +1,7 @@
+package com.dahuang.seobi.analyzer.controller;
+
+import com.dahuangit.base.controller.BaseController;
+
+public class AnalyzeControllerTest extends BaseController {
+
+}

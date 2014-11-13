@@ -1,0 +1,41 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import com.dahuangit.base.entry.BaseModel;
+
+@Entity
+@Table(name = "t_related_search_key")
+public class RelatedSearchKey extends BaseModel {
+	/** 主键 */
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "")
+	private Integer rskId = null;
+
+	/** 说说ID */
+	@Column(name = "")
+	private Integer tmId = null;
+
+	/**相关搜索的关键字*/
+	@Column(name = "related_searche_key")
+	private String relatedSearchKey = null;
+
+	/**最后修改时间*/
+	@Column(name = "last_modify_time")
+	private Date lastModifyTime = null;
+
+	// PRIMARY KEY (`rsk_id`),
+	// KEY `FK_t_related_search_key_1` (`tm_id`),
+	// CONSTRAINT `FK_t_related_search_key_1` FOREIGN KEY (`tm_id`) REFERENCES
+	// `t_talk_msg` (`TM_ID`)
+	// ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='相关搜索关键字';
+
+}

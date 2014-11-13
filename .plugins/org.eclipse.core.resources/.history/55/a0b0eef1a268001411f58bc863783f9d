@@ -1,0 +1,37 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import java.util.Date;
+
+import com.dahuangit.base.entry.BaseModel;
+
+public class SearchInfo extends BaseModel {
+//	-- ----------------------------
+//	DROP TABLE IF EXISTS `t_search_info`;
+//	CREATE TABLE `t_search_info` (
+//	  `si_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+	   private Integer sid = null;
+	   
+//	  `search_title` varchar(128) NOT NULL COMMENT '搜索标题',
+	   private String searchTitle = null;
+	   
+//	  `content` varchar(256) NOT NULL COMMENT '搜索出的内容',
+	   private String content = null;
+	   
+//	  `url` varchar(128) NOT NULL COMMENT '地址',
+	   private String url = null;
+	   
+//	  `se_time` datetime NOT NULL COMMENT '搜索引擎爬虫获取信息的时间',
+	   private Date seTime = null;
+	   
+//	  `last_modify_time` datetime NOT NULL COMMENT '最后修改时间',
+	
+//	  `remark` varchar(45) DEFAULT NULL COMMENT '备注信息',
+	
+//	  `tm_id` int(11) NOT NULL COMMENT '说说信息',
+	
+//	  PRIMARY KEY (`si_id`),
+//	  KEY `FK_t_search_info_1` (`tm_id`),
+//	  CONSTRAINT `FK_t_search_info_1` FOREIGN KEY (`tm_id`) REFERENCES `t_talk_msg` (`TM_ID`)
+//	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='搜索信息';
+
+}

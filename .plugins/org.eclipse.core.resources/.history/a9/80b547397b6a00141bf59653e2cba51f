@@ -1,0 +1,7 @@
+######################seobi-receiver.config########################
+receiver.authentication.password=111111
+
+######################seobi-proxy.config########################
+#quartz config
+
+######################seobi-proxy.config########################

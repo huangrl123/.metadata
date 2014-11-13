@@ -1,0 +1,10 @@
+package com.dahuangit.seobi.analyzer.util;
+
+public class BaiduUtils {
+	
+	private static final String baidu_search_base_url = "";
+	
+	public static String searchByKey(String key) {
+       
+	}
+}

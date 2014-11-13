@@ -1,0 +1,662 @@
+<div id="content_left">
+	<div class="result-op c-container" srcid="28110" id="1" tpl="zx_mussong" mu="http://music.baidu.com/song/25607431"
+		data-op="{'y':'DF83D3FD'}" data-click="{'p1':'1','rsv_bdr':'0','fm':'alop',rsv_stl:'3'}">
+		<style>
+.op-zx-mussong-play-large {
+	position: absolute;
+	left: 41.5px;
+	top: 41.5px;
+}
+</style>
+		<div class="op-zx-mussong c-row c-border">
+			<div class="c-span6">
+				<div style="position: relative;" data-click="{fm:'baha'}">
+					<div class="op-zx-mussong-img-p">
+						<div class="c-img c-img6 op-zx-mussong-photo" style="height: 121px;">
+							<img class="op-zx-mussong-img"
+								src="http://c.hiphotos.baidu.com/ting/pic/item/55e736d12f2eb93878c9d1e4d7628535e5dd6f04.jpg"
+								style="width: 143px; height: 143px; margin-left: -11px; margin-top: -11px;" />
+						</div>
+					</div>
+					<div class="op-zx-mussong-img-mask" style="_height: 121px;"></div>
+					<a hidefocus="true" href="javascript:;"
+						class="c-icon c-icon-play-black-large op-zx-mussong-play op-zx-mussong-play-large"></a> <a hidefocus="true"
+						href="javascript:;" class="c-icon c-icon-stop-black-large op-zx-mussong-pause op-zx-mussong-play-large"
+						style="display: none;"></a>
+				</div>
+			</div>
+			<div class="c-span18 c-span-last op-zx-mussong-box" songid="25607431">
+				<div class="c-gap-bottom">
+					<p class="op-zx-mussong-charTip">
+						<b>今天天气不错</b>，出自歌曲：
+					</p>
+					<a target="_blank" class="op-zx-mussong-songname op-zx-mussong-songFont c-gap-top-small"
+						href="http://www.baidu.com/link?url=rwYq_ZT_4p_lZD806bScJEviUe9zLeCc1Hv0Sm-EEb07MQadZMqaDmCum3ICkiWi3nDwhvi88TUpb18KsZ7LFq">大学生自习曲</a>
+				</div>
+				<div class="c-gap-bottom">
+					歌手： 郝雨 <span class="c-gap-left-small">专辑：</span>《<a target="_blank"
+						href="http://www.baidu.com/link?url=poC9FUY5WzVK2Zmlw5ZWjKMNO822ugCjPVBIKYeGQBEha_TdJJPpddQs32pmlwrKxanw4tB-5ZhQcBfzGi_Fqq"
+						class="op-zx-mussong-album">大学生自习室</a>》
+				</div>
+				<table class="op-zx-mussong-ctrl">
+					<tr>
+						<td><a hidefocus="true" href="javascript:;"
+							class="c-icon c-icon-play-circle-middle op-zx-mussong-play op-zx-mussong-play-normal OP_LOG_BTN"
+							data-click="{fm:'beha'}"></a> <a hidefocus="true" href="javascript:;"
+							class="c-icon c-icon-stop-circle-middle op-zx-mussong-pause op-zx-mussong-pause-normal OP_LOG_BTN"
+							data-click="{fm:'beha'}" style="display: none;"></a></td>
+						<td><div class="op-zx-mussong-playback c-gap-icon-left-small c-gap-icon-right-small OP_LOG_BTN"
+								data-click="{fm:'beha'}">
+								<div class="op-zx-mussong-playback-buffer" style="width: 0%;"></div>
+							</div></td>
+						<td class="op-zx-mussong-time c-gray">00:00</td>
+						<td>
+							<div class="c-gap-left-small op-zx-mussong-volume-p">
+								<div class="c-icon c-icon-horn op-zx-mussong-volume OP_LOG_BTN" data-click="{fm:'beha'}"></div>
+								<div class="op-zx-mussong-volume-slider op-zx-mussong-inactive OP_LOG_BTN" data-click="{fm:'beha'}"></div>
+							</div>
+						</td>
+						<td class="op-zx-mussong-td-normal"><span class="c-gap-left"><a target="_blank"
+								href="http://www.baidu.com/link?url=5j3ZlVtuBieMyNMh9lAHf7wRuE5tKAv69U5oF9EF-hHFdpIU_3MZ-f_oJYafFAOmFpEYBjoB2G6g8nnrJcHGNU48Iei5rVm2xfiqSDEAoaO"
+								class="c-btn c-btn-mini op-zx-mussong-font"><i
+									class="c-icon c-icon-download-noborder c-gap-icon-right-small"></i>下载</a></span></td>
+					</tr>
+				</table>
+				<div class="op-zx-mussong-lrc c-gap-top" data-click="{fm:'beha'}">
+					<div class="c-gap-top" style="position: relative;">
+						<div class="op-zx-mussong-lrc-content"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script data-compress="off">
+			A.setup({
+				'songid' : '25607431',
+				imgW : '121',
+				imgH : '121',
+				keywords : '今天天气不错',
+				tingUrl : 'http://tingapi.ting.baidu.com'
+			});
+		</script>
+		<div class="c-gap-top-small">
+			<span class="c-showurl">music.baidu.com </span><span class="c-tools" id="tools_17548316034014637544_1"
+				data-tools="{title:'在线试听正版歌曲免费下载_百度音乐',url:'http://www.baidu.com/link?url=rwYq_ZT_4p_lZD806bScJEviUe9zLeCc1Hv0Sm-EEb07MQadZMqaDmCum3ICkiWi3nDwhvi88TUpb18KsZ7LFq'}"><a
+				class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="2" srcid="1528" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73B1E4',			'F2':'4CA6DC6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'F9CFC87F'			 									}"
+				href="http://www.baidu.com/link?url=7pjJ4ofjKgorMhZLGKTuIiM24rJ4Cg1dIUWFCDXuHmOUKYaGI423np25FwB8VWzLU-ALzWL2Pra_f91jybgvH_"
+				target="_blank"><em>今天天气不错</em>~~_百度知道</a>
+		</h3>
+		<p class="f13 m">8个回答 - 提问时间: 2012年06月08日</p>
+		<div class="c-abstract">
+			<span class="m">最佳答案: </span>亲,不得不服你的说啊
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2012-06-08nbsp;</span>
+			<div class="c-tools" id="tools_12422959823100939292_2"
+				data-tools='{"title":"今天天气不错~~_百度知道","url":"http://www.baidu.com/link?url=7pjJ4ofjKgorMhZLGKTuIiM24rJ4Cg1dIUWFCDXuHmOUKYaGI423np25FwB8VWzLU-ALzWL2Pra_f91jybgvH_"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D7pjJ4ofjKgorMhZLGKTuIiM24rJ4Cg1dIUWFCDXuHmOUKYaGI423np25FwB8VWzLU-ALzWL2Pra_f91jybgvH_jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%7E%01%7E%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+		<div class="c-offset">
+			<table class="subLink_factory subLink_factory_right">
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=5j3ZlVtuBieMyNMh9lAHfyxwtfmP4eOP5O-hQDE3W_SkmaDpJRz4xPsp7nT-K23PoAOQdkXUkUz2OMnYGnl-wa"
+						target="_blank"><em>今天天气</em>很好</a></td>
+					<td class="middle c-default ">13个回答</td>
+					<td class="last c-default rightTd">2011-11-06</td>
+				</tr>
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=5j3ZlVtuBieMyNMh9lAHfyxwtfmP4eOP5O-hQDE3W_SkmaDpJRz4xPsp7nT-K23P58CfI38QEXYMngSQJUkMTa"
+						target="_blank"><em>今天天气好</em>吗?</a></td>
+					<td class="middle c-default ">20个回答</td>
+					<td class="last c-default rightTd">2012-07-13</td>
+				</tr>
+			</table>
+			<a
+				href="http://www.baidu.com/link?url=nSZj314ZMUmnobj3yo7Hqas2sfJy99Rm_OKlBTjcU_cUffA-ywlCH3vVMz5n-Z1a2J7LPbdQLoZlPEvA439nHmeOPiJQa6AlepfF24ZO4j498HdOyqKDNEp4-3NRInYVYPs5DTb8lvF1BG_lU3gxZCM2tVIgq0V_ppu2tZGZ_dq"
+				target="_blank" class="c">更多知道相关问题gt;gt;</a>
+		</div>
+		<div class="c-gap-top c-recommend" style="display: none;" data-extquery="今天天气不错什么意思nbsp;celebgatenbsp;hollywoodnbsp;">
+			<i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a
+				href="/s?usm=1rn=20wd=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9Die=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">今天天气不错什么意思</a><a
+				href="/s?usm=1rn=20wd=celebgateie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">celebgate</a><a
+				href="/s?usm=1rn=20wd=hollywoodie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank">hollywood</a>
+		</div>
+	</div>
+	<div class="result c-container " id="3" srcid="1526" tpl="se_com_default"
+		data-click="{'rsv_bdr':'0' ,'rsv_cd':'pt:40520'}">
+		<h3 class="t">
+			<span class="c-icon c-icon-doc c-gap-icon-right-small"></span><a
+				data-click="{			'F':'778317EA',			'F1':'BD73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'52EAFBBF'			 									}"
+				href="http://www.baidu.com/link?url=KHriHuuFQthcELtjEOuLFTvkVrHMgj8HstrmjbVFw91TuZrydUI5xeQy6sRtL7hB56SAqmXm8zySVIwdPnU-778MEaHMbr3nHEKDiNQB5we"
+				target="_blank"><em>今天天气不错</em>的歌词_百度文库</a>
+		</h3>
+		<p style="padding-top: 3px;">
+			<span class="m"><span class="c-icon c-icon-star-gray"><span class="c-icon c-icon-star"
+					style="width: 60%;"></span></span>nbsp;评分:3/5nbsp;3页</span>
+		</p>
+		<div class="c-abstract">
+			<em>今天天气不错</em>挺风和日丽的 我们下午没有课 自习 心里琢磨着大学生活是多么美好啊· ··· 这天气挺爽的 我一大中午早早的跑去上 这一眨眼的工夫我就进了主楼...
+		</div>
+		<div class="f13">
+			<span class="g">wenku.baidu.com/link?u...nbsp;2013-05-09nbsp;</span>
+			<div class="c-tools" id="tools_5939735739678167883_3"
+				data-tools='{"title":"今天天气不错的歌词_百度文库","url":"http://www.baidu.com/link?url=KHriHuuFQthcELtjEOuLFTvkVrHMgj8HstrmjbVFw91TuZrydUI5xeQy6sRtL7hB56SAqmXm8zySVIwdPnU-778MEaHMbr3nHEKDiNQB5we"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"><span class="c-vline"></span><span
+					class="c-trust-as vstar" data_key="1598668362003819882"
+					hint-data='{"label":"北京百度网讯科技有限公司","url":"http://www.baidu.com/s?wd=wenku.baidu.com@vvmp_ec=3430dff55a5b71ffb4cacf177f1a5=1mLaRQm1219hJX4d=3N9f5bfbv76Wm4e64stL0bla3JdX57967fead9015vmp_ectm=1415607308","hint":[{"txt":"[ecard 100]","vlevel":"3"}]}'
+					hint-type="vstar"><a
+						href="http://www.baidu.com/s?wd=wenku.baidu.com@vvmp_ec=3430dff55a5b71ffb4cacf177f1a5=1mLaRQm1219hJX4d=3N9f5bfbv76Wm4e64stL0bla3JdX57967fead9015vmp_ectm=1415607308"
+						class="c-icon c-icon-v c-icon-v3" target="_blank" data-click="{'title':'vstar','rsv_vlevel':'3'}"></a></span></span></span><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DKHriHuuFQthcELtjEOuLFTvkVrHMgj8HstrmjbVFw91TuZrydUI5xeQy6sRtL7hB56SAqmXm8zySVIwdPnU-778MEaHMbr3nHEKDiNQB5wejump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%E7%9A%84%01%E6%AD%8C%E8%AF%8D%01_%01%E7%99%BE%E5%BA%A6%01%E6%96%87%E5%BA%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+		<div class="c-offset">
+			<table class="subLink_factory subLink_factory_right">
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=AsiEjYi0aj_OxxeB4WMlm2JPQDRshAlcvW7rGgAo1QgS0GPphfxw_K56vRAgmhHzTAerT43KKLoMQmm6driFDov8b_KZATIwUcwOGrpcKeq"
+						target="_blank"><em>今天天气不错</em>123.doc</a></td>
+					<td class="middle c-default ">评分:3.5/5</td>
+					<td class="last c-default rightTd">4页</td>
+				</tr>
+			</table>
+			<a
+				href="http://www.baidu.com/link?url=jTmJWsrAErAT7hcL6o8JNMhQZMrtmELVzLIzBpR60p8cFx1oNQC7DfMJsTXhhPPtJMPrGfztScCkiL-sfzmILVReOz6BLX2qRp6BlvR9zCx_v5FYK63_3qMFDjvPmZ4vMbtfZ9lqD8N-_blb679WDDGN6H1eKSU4Qg4Nl45--67"
+				target="_blank" class="c">更多文库相关文档gt;gt;</a>
+		</div>
+		<div class="c-gap-top c-recommend" style="display: none;"
+			data-extquery="大学生自习室nbsp;大学生自习室歌词nbsp;今天天气好晴朗nbsp;挺风和日丽的nbsp;">
+			<i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a
+				href="/s?usm=1rn=20wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">大学生自习室</a><a
+				href="/s?usm=1rn=20wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4%E6%AD%8C%E8%AF%8Die=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">大学生自习室歌词</a><a
+				href="/s?usm=1rn=20wd=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E5%A5%BD%E6%99%B4%E6%9C%97ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">今天天气好晴朗</a><a
+				href="/s?usm=1rn=20wd=%E6%8C%BA%E9%A3%8E%E5%92%8C%E6%97%A5%E4%B8%BD%E7%9A%84ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank">挺风和日丽的</a>
+		</div>
+	</div>
+	<div class="result-op c-container xpath-log" srcid="1547" id="4" tpl="bk_polysemy"
+		mu="http://baike.baidu.com/view/6257178.htm" data-op="{'y':'6F949FD3'}"
+		data-click="{'p1':'4','rsv_bdr':'0','fm':'albk3',rsv_stl:''}">
+		<h3 class="t c-gap-bottom-small">
+			<a href="http://baike.baidu.com/view/6257178.htm?fr=aladdin" target="_blank"><em>今天天气</em>好吗_百度百科</a>
+		</h3>
+		<div class="c-row">
+			<div class="c-span24 c-span-last">
+				<p>歌手：原名关维鹏，生于广西桂林，后随父母移居香港。当年的香港电影童星，谁知道做了童星之后就没怎么高过。身高不到1米五，弓着背，很容易让人记住。泰迪罗宾...</p>
+				<p>
+					<a class="c-gap-right-small" href="http://baike.baidu.com/view/6257178.htm?fr=aladdin#1" target="_blank"
+						title="基本信息">基本信息</a> <a class="c-gap-right-small" href="http://baike.baidu.com/view/6257178.htm?fr=aladdin#2"
+						target="_blank" title="歌词">歌词</a> <a class="c-gap-right-small"
+						href="http://baike.baidu.com/view/6257178.htm?fr=aladdin#3" target="_blank" title="歌手">歌手</a>
+				</p>
+				<p class=" op-bk-polysemy-move">
+					<span class="c-showurl">baike.baidu.com/ 2014-08-01 </span><span class="c-tools" id="tools_15617005324779319593_4"
+						data-tools="{title:'今天天气好吗_百度百科',url:'http://baike.baidu.com/view/6257178.htm?fr=aladdin'}"><a
+						class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></span>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="result c-container " id="5" srcid="1530" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1E4',			'F2':'48A6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'6EBF7F7F'			 									}"
+				href="http://www.baidu.com/link?url=mRMflSARddXbKYIe_-TopsEkPFkh4uXpyVFC0m69IjcwbMpo_6rKQcKi8lK-IpcH"
+				target="_blank"><em>今天天气不错</em>_古剑奇谭网络版吧_百度贴吧</a>
+		</h3>
+		<p class="f13 m">20条回复 - 发帖时间: 2013年2月2日</p>
+		<div class="c-abstract">
+			啦啦哟哟哟哟<em>今天天气不错</em>挺风和日丽的我们下午没有课这的确挺爽的我一大中午早早的跑去上自习心里琢磨着大学生活是多么美好啊这一眨眼的功夫我就进了主楼要说...
+		</div>
+		<div class="f13">
+			<span class="g">tieba.baidu.com/p/2134...nbsp;2013-02-03nbsp;</span>
+			<div class="c-tools" id="tools_6323499992904026060_5"
+				data-tools='{"title":"今天天气不错_古剑奇谭网络版吧_百度贴吧","url":"http://www.baidu.com/link?url=mRMflSARddXbKYIe_-TopsEkPFkh4uXpyVFC0m69IjcwbMpo_6rKQcKi8lK-IpcH"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DmRMflSARddXbKYIe_-TopsEkPFkh4uXpyVFC0m69IjcwbMpo_6rKQcKi8lK-IpcHjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03_%01%E5%8F%A4%E5%89%91%01%E5%A5%87%E8%B0%AD%01%E7%BD%91%E7%BB%9C%01%E7%89%88%01%E5%90%A7%01_%01%E7%99%BE%E5%BA%A6%01%E8%B4%B4%E5%90%A7%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">77%好评</a></span>
+		</div>
+		<div class="c-offset">
+			<table class="subLink_factory subLink_factory_right">
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=d1kVBeZiGZ4Y-ClWjpLotA-SWx5GEZtRfp0vvKgkZOh3_n9xkExbbEpmUwyubIa1"
+						target="_blank"><em>今天天气不错</em>,晒几张照片。_日语吧</a></td>
+					<td class="middle c-default ">40条回复</td>
+					<td class="last c-default rightTd">2013-05-06</td>
+				</tr>
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=d1kVBeZiGZ4Y-ClWjpLotA-SWx5GEZtRfp0vvKgkZOhWyLiHXmbtFajpwCYl4ROC"
+						target="_blank"><em>今天天气好</em>,搞起_山西农业大学信息学院吧</a></td>
+					<td class="middle c-default "></td>
+					<td class="last c-default rightTd"></td>
+				</tr>
+				<tr>
+					<td class="first c-default "><a
+						href="http://www.baidu.com/link?url=d1kVBeZiGZ4Y-ClWjpLotA-SWx5GEZtRfp0vvKgkZOgQ_1geYnsDRfYj7JGFAhhD"
+						target="_blank">嗯嗯 <em>今天天气不错</em>_邕江大学吧
+					</a></td>
+					<td class="middle c-default ">33条回复</td>
+					<td class="last c-default rightTd">2013-12-30</td>
+				</tr>
+			</table>
+			<a
+				href="http://www.baidu.com/link?url=AsiEjYi0aj_OxxeB4WMlmF1nUEcBHRaGXRpkiwzG0H1tp9yRZp24EoZdXMoxh5HieFhQBIuxKPMN4fhdj3J62HNF-2epPTGwq7Gf4kQks4hrD_I0ubLTSkyd-15xNFDXF4gQTHHxOIJQB-PbbBjFqDyvIxkCXF3nxPWyW8GwiH7"
+				target="_blank" class="c">更多贴吧相关帖子gt;gt;</a>
+		</div>
+	</div>
+	<div class="result c-container " id="6" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1C4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'FFFB78DC'			 									}"
+				href="http://www.baidu.com/link?url=YhPKO45eReJ2jLZ5lJ11HmRzeBUX7hNC_XeTNnNFRVhFEmAK8zXpyQ36XWKM4J_h"
+				target="_blank"><em>今天天气不错</em></a>
+		</h3>
+		<div class="c-abstract">
+			<em>今天天气不错</em> (哈哈) <em>今天天气不错</em>的主页 广播 相册 日记 喜欢 豆列<em>今天天气不错</em>的相册 ··· ( 创建6· 关注0 ) 无所不...
+		</div>
+		<div class="f13">
+			<span class="g">www.douban.com/people/...nbsp;2014-07-24nbsp;</span>
+			<div class="c-tools" id="tools_3184416795469085878_6"
+				data-tools='{"title":"今天天气不错 ","url":"http://www.baidu.com/link?url=YhPKO45eReJ2jLZ5lJ11HmRzeBUX7hNC_XeTNnNFRVhFEmAK8zXpyQ36XWKM4J_h"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105392230e54f7356190804623c3933fc239045c0531bef979750d6584947c6502af5448afad7624381450c18cbc8b5dacca855f5e9f2644676df75665a20edecf5151cb37912afedf19f0ca802592dec5a3d94324bcp=8b2a970e86cc4ba50f81de644e42newp=aa759a4fdcd81bfb09b1c7710f0592695d0fc20e3fdcd20e2580c214user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=6"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DYhPKO45eReJ2jLZ5lJ11HmRzeBUX7hNC_XeTNnNFRVhFEmAK8zXpyQ36XWKM4J_hjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="7" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'F5EE48BE'			 									}"
+				href="http://www.baidu.com/link?url=w7TMHI_3hKti60WeNIUX0JHxu-MM1N_BKnokB4fvhWvFr2SvutA24FbeCO9pkELd8vseeJm9g87TqElPBUB33_"
+				target="_blank"><em>今天天气不错</em>,<em>今天天气不错</em>最新章节-起点</a>
+		</h3>
+		<div class="c-abstract">
+			<em>今天天气不错</em>互动信息 推荐本书给好友 本书尚未开通VIP,不能投月票。 本月月票总榜 书名 票数 完美世界 23649 魔天记 16481 我欲封天 12424 飞天 ...
+		</div>
+		<div class="f13">
+			<span class="g">www.qidian.com/Book/19...nbsp;2011-03-21nbsp;</span>
+			<div class="c-tools" id="tools_3811633260488673835_7"
+				data-tools='{"title":"今天天气不错,今天天气不错最新章节-起点 ","url":"http://www.baidu.com/link?url=w7TMHI_3hKti60WeNIUX0JHxu-MM1N_BKnokB4fvhWvFr2SvutA24FbeCO9pkELd8vseeJm9g87TqElPBUB33_"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105392230e54f72067818b4623c3933fc239045c373bbee23a211b06d6c57c6716af3e0fabb27c66725e60e194dff83ccacf913f5ef93043010b873105a268b8bc3732b024872ee3b81897ad803284dea2c4de2444ba55120df6p=80769a4797934eac5be8e6254c0c88newp=882a9646d3d233fb0be2963959648c231610db2151ddd7106ea6c7user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=7"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dw7TMHI_3hKti60WeNIUX0JHxu-MM1N_BKnokB4fvhWvFr2SvutA24FbeCO9pkELd8vseeJm9g87TqElPBUB33_jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%2C%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%E6%9C%80%01%E6%96%B0%01%E7%AB%A0%E8%8A%82%01-%01%E8%B5%B7%E7%82%B9%01%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">80%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="8" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'EFFFFBFE'			 									}"
+				href="http://www.baidu.com/link?url=kCW8nuaFTun2A6YiDzCs_ndn3vsSabwlNVFL6xoSoncLeZ0IBr2c7wpcHNZ7Ne_z1LMWTx9Ui3bpwpAxZZEnIK"
+				target="_blank"><em>今天天气不错</em> - 艾泽拉斯国家地理论坛 - [2337][f182]</a>
+		</h3>
+		<div class="c-abstract">
+			:: ? [url=http://bbs.ngacn.cc/read.php?tid=1170975]<em>今天天气不错</em>[/url] :: AUTHORCONTENT 2007-08-28 16:01 ?
+			[url=http://bbs.ngacn.cc/...
+		</div>
+		<div class="f13">
+			<span class="g">bbs.ngacn.cc/re...php?...nbsp;2007-08-28nbsp;</span>
+			<div class="c-tools" id="tools_16024646229677054806_8"
+				data-tools='{"title":"今天天气不错 - 艾泽拉斯国家地理论坛 - [2337][f182]","url":"http://www.baidu.com/link?url=kCW8nuaFTun2A6YiDzCs_ndn3vsSabwlNVFL6xoSoncLeZ0IBr2c7wpcHNZ7Ne_z1LMWTx9Ui3bpwpAxZZEnIK"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f357fd86623706bda14418245b8cb3174903dd00dbaf90ee7cdb268d1b9d3a7990f05dd52737983f589510513dd6ff45662b6f18e49635cp=86769a4786cc45aa01aac82b5f44newp=882a914084904ead4bfbc134544c92695d0fc20e3fd1d747user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=8"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DkCW8nuaFTun2A6YiDzCs_ndn3vsSabwlNVFL6xoSoncLeZ0IBr2c7wpcHNZ7Ne_z1LMWTx9Ui3bpwpAxZZEnIKjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%20%01-%01%20%01%E8%89%BE%E6%B3%BD%E6%8B%89%E6%96%AF%01%E5%9B%BD%E5%AE%B6%01%E5%9C%B0%E7%90%86%01%E8%AE%BA%E5%9D%9B%01%20%01-%01%20%01%5B%012337%01%5D%01%5B%01f%01182%01%5D%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">91%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="9" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'DF5FFADF'			 									}"
+				href="http://www.baidu.com/link?url=iM8VEr6Ue2_wOsLK66QUZjb4DpLV3fABVuOso-1cL-pfJBU-PyjzyF4msq2BuKlIff2gPB_87SAjURxVWFAFaK"
+				target="_blank"><em>今天天气好</em>吗_百度知道</a>
+		</h3>
+		<p class="f13 m">25个回答 - 提问时间: 2011年06月15日</p>
+		<div class="c-abstract">
+			天气有他自己的周期和规律,是我们不能改变的。我们的心情也和天气一样,一会... <em>今天天气不错</em>啊,,就是温度还有点高,,如果温度再点一些,就很8错了。。适当...
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2011-06-20nbsp;</span>
+			<div class="c-tools" id="tools_13370373930077828517_9"
+				data-tools='{"title":"今天天气好吗_百度知道 ","url":"http://www.baidu.com/link?url=iM8VEr6Ue2_wOsLK66QUZjb4DpLV3fABVuOso-1cL-pfJBU-PyjzyF4msq2BuKlIff2gPB_87SAjURxVWFAFaK"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e9961670bad4b5deef03c73200357eddd97d65e98e6d27e209f57426768855663a20ed8ba5124b137e12bfed868f0cbf425e7a4c5d2af4323ca44750a97f1fb4d7012dd1886p=8b2a9710c7934eac58ecd164165e96newp=9c49c64ad4af14fb19bd9b7d0d179c23161cda386a848d0a3b8fd125956337141327user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=9"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DiM8VEr6Ue2_wOsLK66QUZjb4DpLV3fABVuOso-1cL-pfJBU-PyjzyF4msq2BuKlIff2gPB_87SAjURxVWFAFaKjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="10" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'EBDFDDDF'			 									}"
+				href="http://www.baidu.com/link?url=hZP4yqtjEHLukGFXYkClGoAnMh2j7QEhiycZ9-vG-wQ67AqzmvE-elemr1YqwCzH1cwPCAPuJT50xQUiTtsNYHnuIEYuPx6OQKLezko-zgS"
+				target="_blank"><em>今天天气好</em>吗?_百度知道</a>
+		</h3>
+		<p class="f13 m">1个回答 - 提问时间: 2014年08月29日</p>
+		<div class="c-abstract">
+			今天天气怎么样? What’s the weather going to be like at the weekend? 周末天气会怎么样呢? It’s fine / cloudy / rainy today. <em>今天天气不错</em>/多云/...
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2014-08-29nbsp;</span>
+			<div class="c-tools" id="tools_5514047679068197333_10"
+				data-tools='{"title":"今天天气好吗?_百度知道","url":"http://www.baidu.com/link?url=hZP4yqtjEHLukGFXYkClGoAnMh2j7QEhiycZ9-vG-wQ67AqzmvE-elemr1YqwCzH1cwPCAPuJT50xQUiTtsNYHnuIEYuPx6OQKLezko-zgS"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e99616400a84f5aeef533703c092ab39ec9894adaac925f75ce786a6459db0144dc0edfbd5151c237e12bfed868f0bb8025e2dfc5a4ae4322ce44717097f1fb4d7014dd1f80033093b1e94e022866p=83759a46d6c95def10a8c22d02149dnewp=9978d515d9c041a543f3c7710f599323161cda386a848d0a3b8fd125906e405fuser=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=10"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhZP4yqtjEHLukGFXYkClGoAnMh2j7QEhiycZ9-vG-wQ67AqzmvE-elemr1YqwCzH1cwPCAPuJT50xQUiTtsNYHnuIEYuPx6OQKLezko-zgSjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="11" srcid="1525" tpl="se_com_default"
+		data-click="{'rsv_bdr':'0' ,'rsv_cd':'pt:40520'}">
+		<h3 class="t">
+			<span class="c-icon c-icon-doc c-gap-icon-right-small"></span><a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5243E',			'T':'1415630053',						'y':'FFFFE7E5'			 									}"
+				href="http://www.baidu.com/link?url=kz9HrH91Us6IJ1R1TUOn-OtHNRO2thD8AN4-OH-gYR_AG_JfnIyCJJipdv_Zx1iLx81VJbSJP7eZ2pQtYJmu6uQgjOn_iIEh1Hq9OU37Gdu"
+				target="_blank"><em>今天天气</em>很好_百度文库</a>
+		</h3>
+		<div class="c-abstract">
+			<em>今天天气</em>很好_英语学习_外语学习_教育专区。<em>今天天气</em>很好,现在是 9:22,办公室...发现别人的不好,好好地学会忘记,冷淡,刚开始可能是忍痛割爱,时间一长便真的没...
+		</div>
+		<div class="f13">
+			<span class="g">wenku.baidu.com/link?u...nbsp;2013-11-27nbsp;</span>
+			<div class="c-tools" id="tools_15824190978270361900_11"
+				data-tools='{"title":"今天天气很好_百度文库","url":"http://www.baidu.com/link?url=kz9HrH91Us6IJ1R1TUOn-OtHNRO2thD8AN4-OH-gYR_AG_JfnIyCJJipdv_Zx1iLx81VJbSJP7eZ2pQtYJmu6uQgjOn_iIEh1Hq9OU37Gdu"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"><span class="c-vline"></span><span
+					class="c-trust-as vstar" data_key="1598668362003819882"
+					hint-data='{"label":"北京百度网讯科技有限公司","url":"http://www.baidu.com/s?wd=wenku.baidu.com@vvmp_ec=3430dff55a5b71ffb4cacf177f1a5=1mLaRQm1219hJX4d=3N9f5bfbv76Wm4e64stL0bla3JdX57967fead9015vmp_ectm=1415607308","hint":[{"txt":"[ecard 100]","vlevel":"3"}]}'
+					hint-type="vstar"><a
+						href="http://www.baidu.com/s?wd=wenku.baidu.com@vvmp_ec=3430dff55a5b71ffb4cacf177f1a5=1mLaRQm1219hJX4d=3N9f5bfbv76Wm4e64stL0bla3JdX57967fead9015vmp_ectm=1415607308"
+						class="c-icon c-icon-v c-icon-v3" target="_blank" data-click="{'title':'vstar','rsv_vlevel':'3'}"></a></span></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f356adf7b6d370b8636428042f98c5125b671cd05f4eb42b0ffed33c7a886d38c57519907037dd0f1895f571ecf6cfb1136b5b1993f4f194fe4p=8157c116d9c103f908e2907c500cnewp=c479d10cce904ead08e2907c444092695c03dc3a7bc8944e3db99542user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=11"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dkz9HrH91Us6IJ1R1TUOn-OtHNRO2thD8AN4-OH-gYR_AG_JfnIyCJJipdv_Zx1iLx81VJbSJP7eZ2pQtYJmu6uQgjOn_iIEh1Hq9OU37Gdujump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%03%E5%BE%88%E5%A5%BD%01_%01%E7%99%BE%E5%BA%A6%01%E6%96%87%E5%BA%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="12" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1C4',			'F2':'4CA6DC6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'DDF7D6BF'			 									}"
+				href="http://www.baidu.com/link?url=RO-z2P1x4SwtJyV57teEaJTBKU9KHAY0MUHUGdKvzmpZ9BdV7ZkVVy0DqHFiukSuSA9rlQEVfhzbH-3W3VxuiRbIlUqox6RRk-3Sx7J_DUe"
+				target="_blank"><em>今天天气好</em>吗?_百度知道</a>
+		</h3>
+		<p class="f13 m">2个回答 - 提问时间: 2014年11月02日</p>
+		<div class="c-abstract">
+			<span class="m">最佳答案: </span>深圳虽然降温了,但是I还是很温暖的~
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2014-11-03nbsp;</span>
+			<div class="c-tools" id="tools_7863002464913055216_12"
+				data-tools='{"title":"今天天气好吗?_百度知道","url":"http://www.baidu.com/link?url=RO-z2P1x4SwtJyV57teEaJTBKU9KHAY0MUHUGdKvzmpZ9BdV7ZkVVy0DqHFiukSuSA9rlQEVfhzbH-3W3VxuiRbIlUqox6RRk-3Sx7J_DUe"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f3567d27c622341914165834af49d0132c157c107b6b25aa0edb174c8f38eceda5352c951047a87fa8e5f021eca6af01237f4a6ee1253004ep=882a9645dd9c0af01abe9b7c58418anewp=9b33c64ad4934eac58e6cf355b4c97231602d338629ccf5d258fc51bce095buser=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=12"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DRO-z2P1x4SwtJyV57teEaJTBKU9KHAY0MUHUGdKvzmpZ9BdV7ZkVVy0DqHFiukSuSA9rlQEVfhzbH-3W3VxuiRbIlUqox6RRk-3Sx7J_DUejump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="13" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1C4',			'F2':'4CA6DC6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'DBAC9D56'			 									}"
+				href="http://www.baidu.com/link?url=EdcKBDAR8S1rgNHk-pkTyEBubue8h6JqkmNWgoc4NZFXIKwAUMn0rtIzc79vdYI6HI1clH9LLemfZhy4uZNwhZpj91iKfY232DWQP3v8dW7"
+				target="_blank"><em>今天天气不错</em>_百度知道</a>
+		</h3>
+		<div class="c-row c-gap-top-small">
+			<div class="general_image_pic c-span6">
+				<a class="c-img6" style="height: 75px"
+					href="http://www.baidu.com/link?url=EdcKBDAR8S1rgNHk-pkTyEBubue8h6JqkmNWgoc4NZFXIKwAUMn0rtIzc79vdYI6HI1clH9LLemfZhy4uZNwhZpj91iKfY232DWQP3v8dW7"
+					target="_blank"><img class="c-img c-img6"
+					src="http://i7.baidu.com/it/u=4017306741,3155261391fm=96s=B17253D8C2363A2F22386C040100E0D2" style="height: 75px;" /></a>
+			</div>
+			<div class="c-span18 c-span-last">
+				<p class="f13 m">4个回答 - 提问时间: 2014年03月18日</p>
+				<div class="c-abstract">
+					确定<em>不错</em>,适合郊游
+				</div>
+				<div class="f13">
+					<span class="g">zhidao.baidu.com/link?...nbsp;2014-03-18nbsp;</span>
+					<div class="c-tools" id="tools_10564916457609743486_13"
+						data-tools='{"title":"今天天气不错_百度知道","url":"http://www.baidu.com/link?url=EdcKBDAR8S1rgNHk-pkTyEBubue8h6JqkmNWgoc4NZFXIKwAUMn0rtIzc79vdYI6HI1clH9LLemfZhy4uZNwhZpj91iKfY232DWQP3v8dW7"}'>
+						<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+					</div>
+					<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+						href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f3567d27c622341914165834af49d0132c157c107b6b25aa0edb174c8f38ecedf5558c054007f8bf0805a0614c86af21637f4a6ee1253004ep=8b2a971e80d05ab149bd9b78085cnewp=9c3dc54ad0c60bfc57ef8e0c7f5f9269510edb356f8acf512496fe49d9user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=13"
+						target="_blank" class="m">百度快照</a>
+				</div>
+			</div>
+		</div>
+		<div class="c-gap-top c-recommend" style="display: none;" data-extquery="hollywood scandalnbsp;">
+			<i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a
+				href="/s?usm=1rn=20wd=hollywood+scandalie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank">hollywood scandal</a>
+		</div>
+	</div>
+	<div class="result c-container " id="14" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1C4',			'F2':'4CA6DC6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'F31FB6E'			 									}"
+				href="http://www.baidu.com/link?url=O0HlAVSQ8C-jTJVWA1oowqAzN5fz2wD_NJuHkTmb76SDPpRvf1pGMoXTl6g68EeVCUkLljAeJO0vs7O5tc3Ga0JLvuMk9GFfe_QqqMkYhfy"
+				target="_blank"><em>今天天气好</em>吗_百度知道</a>
+		</h3>
+		<p class="f13 m">4个回答 - 提问时间: 2014年04月14日</p>
+		<div class="c-abstract">
+			<i class="c-text c-text-info c-gap-icon-right-small"><b>[</b><span>图文</span><b>]</b></i><em>今天天气</em>基本<em>不错</em>!
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2014-04-14nbsp;</span>
+			<div class="c-tools" id="tools_11309353645807144336_14"
+				data-tools='{"title":"今天天气好吗_百度知道","url":"http://www.baidu.com/link?url=O0HlAVSQ8C-jTJVWA1oowqAzN5fz2wD_NJuHkTmb76SDPpRvf1pGMoXTl6g68EeVCUkLljAeJO0vs7O5tc3Ga0JLvuMk9GFfe_QqqMkYhfy"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f3567d27c622341914165834af49d0132c157c107b6b25aa0edb174c8f38ecedc5151ca5106708af38e590016cd6cf01737e1b1993f4f194fe4p=8162cf16d9c111a05bed9039594c89newp=857cc90386cc42af5caac7710f058a23161cda386a848d0a3b8fd12595641cuser=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=14"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DO0HlAVSQ8C-jTJVWA1oowqAzN5fz2wD_NJuHkTmb76SDPpRvf1pGMoXTl6g68EeVCUkLljAeJO0vs7O5tc3Ga0JLvuMk9GFfe_QqqMkYhfyjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="15" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1E4',			'F2':'4CA6DD6B',			'F3':'54E5342E',			'T':'1415630053',						'y':'D7B55E7F'			 									}"
+				href="http://www.baidu.com/link?url=hJXMEaLNY6CMgRLmHuMb12TmDODKNogkczfAMZoIXP4rAPJXkqiveN1J1SPfZqBj2CCpxf0KpEQ0L_2NvmPiQ_"
+				target="_blank"><em>最近天气好</em>的地方_百度知道</a>
+		</h3>
+		<p class="f13 m">3个回答 - 提问时间: 2010年06月17日</p>
+		<div class="c-abstract">
+			<span class="m">最佳答案: </span><em>最近</em>几日,内蒙古,山西,陕西,河南,甘肃,宁夏,新疆,青海,西藏,黑龙江,吉林这几个省都有<em>不错</em>的<em>天气</em>。
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2010-06-18nbsp;</span>
+			<div class="c-tools" id="tools_10490878254592046407_15"
+				data-tools='{"title":"最近天气好的地方_百度知道","url":"http://www.baidu.com/link?url=hJXMEaLNY6CMgRLmHuMb12TmDODKNogkczfAMZoIXP4rAPJXkqiveN1J1SPfZqBj2CCpxf0KpEQ0L_2NvmPiQ_"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e99616405ad485deff33470200357eddd97d65e98e6d27e209f57426768855663a20ed8ba5124b137e12bfed868f0cbf425e7a4c5d2af4323ca44750a97f1fb4d7012dd1886p=9f60cb1c85cc43f908e29f75540enewp=aa348b53cd904ead0cbd9b75067a9269510edb356f8acf512496fe4c9630user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=15"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhJXMEaLNY6CMgRLmHuMb12TmDODKNogkczfAMZoIXP4rAPJXkqiveN1J1SPfZqBj2CCpxf0KpEQ0L_2NvmPiQ_jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E6%9C%80%E8%BF%91%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E7%9A%84%01%E5%9C%B0%E6%96%B9%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+		<div class="c-gap-top c-recommend" style="display: none;"
+			data-extquery="杭州天气nbsp;北戴河天气nbsp;武汉天气nbsp;跳伞和天气nbsp;淄博天气nbsp;">
+			<i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a
+				href="/s?usm=1rn=20wd=%E6%9D%AD%E5%B7%9E%E5%A4%A9%E6%B0%94ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">杭州天气</a><a
+				href="/s?usm=1rn=20wd=%E5%8C%97%E6%88%B4%E6%B2%B3%E5%A4%A9%E6%B0%94ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">北戴河天气</a><a
+				href="/s?usm=1rn=20wd=%E6%AD%A6%E6%B1%89%E5%A4%A9%E6%B0%94ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">武汉天气</a><a
+				href="/s?usm=1rn=20wd=%E8%B7%B3%E4%BC%9E%E5%92%8C%E5%A4%A9%E6%B0%94ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank" class="res-gap-right16">跳伞和天气</a><a
+				href="/s?usm=1rn=20wd=%E6%B7%84%E5%8D%9A%E5%A4%A9%E6%B0%94ie=utf-8rsv_crq=7bs=%E4%BB%8A%E5%A4%A9%E5%A4%A9%E6%B0%94%E4%B8%8D%E9%94%99"
+				target="_blank">淄博天气</a>
+		</div>
+	</div>
+	<div class="result c-container " id="16" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'D7EF1FF2'			 									}"
+				href="http://www.baidu.com/link?url=Fi8HEMLOyy3OtsKA7Ldbx3y0oKCGNB2wg0AAg75RZKKtFHTrfl0H1M8h6WU4eIL3"
+				target="_blank"><em>今天天气不错</em></a>
+		</h3>
+		<div class="c-abstract">
+			<em>今天天气不错</em> (哈哈) <em>今天天气不错</em>的主页 广播 相册 日记 喜欢 豆列<em>今天天气不错</em>的相册 ··· ( 创建6· 关注0 ) 无所不...
+		</div>
+		<div class="f13">
+			<span class="g">www.douban.com/people/...nbsp;2014-07-24nbsp;</span>
+			<div class="c-tools" id="tools_15812725283437930222_16"
+				data-tools='{"title":"今天天气不错 ","url":"http://www.baidu.com/link?url=Fi8HEMLOyy3OtsKA7Ldbx3y0oKCGNB2wg0AAg75RZKKtFHTrfl0H1M8h6WU4eIL3"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f356acd6223706bd01c55834af3dc4652907dcf47abf844a5e4a72f94acd6d3dd5656ce4ep=8a769a4797934ea95ebfe6371e48newp=9066c64ad48150b108e292781c4192695d0fc20e38d0d7576ecauser=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=16"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFi8HEMLOyy3OtsKA7Ldbx3y0oKCGNB2wg0AAg75RZKKtFHTrfl0H1M8h6WU4eIL3jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="17" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1C4',			'F2':'4CA6DC6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'7F3FF715'			 									}"
+				href="http://www.baidu.com/link?url=wDo_cbY6s14u3wNmMBnvP3EzWXROL4TULu4cGdjH3nJ-hIYVcSFbcArLJBjU_6G5qzfHppa6f3xGmx9HJk5mTC6PoqnYUHDCzhtwZ02fCni"
+				target="_blank"><em>今天天气好</em>吗_百度知道</a>
+		</h3>
+		<p class="f13 m">4个回答 - 提问时间: 2014年03月18日</p>
+		<div class="c-abstract">
+			<em>天气</em>非常<em>不错</em>,温暖舒适。
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2014-03-18nbsp;</span>
+			<div class="c-tools" id="tools_8579655085062395186_17"
+				data-tools='{"title":"今天天气好吗_百度知道","url":"http://www.baidu.com/link?url=wDo_cbY6s14u3wNmMBnvP3EzWXROL4TULu4cGdjH3nJ-hIYVcSFbcArLJBjU_6G5qzfHppa6f3xGmx9HJk5mTC6PoqnYUHDCzhtwZ02fCni"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e9961640aa54d5febf13671360522b29bc2834adaac925f75ce786a6459db0144dc0edfbd5151c237e12bfed868f0bb8025e2dfc5a4ae4322ce44717097f1fb4d7014dd1f80033093b1e94e022866p=996ec64ad4934eaf0ead883c4enewp=843b8316d9c101ed1bbd9b7e5b53d82e430fd63061c8944e3db9924ed32618user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=17"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DwDo_cbY6s14u3wNmMBnvP3EzWXROL4TULu4cGdjH3nJ-hIYVcSFbcArLJBjU_6G5qzfHppa6f3xGmx9HJk5mTC6PoqnYUHDCzhtwZ02fCnijump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="18" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1E4',			'F2':'4CA6DE6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'D6D57FDF'			 									}"
+				href="http://www.baidu.com/link?url=EdizAhu7kLb6lcyueEwdSgPLjbHRKIszvruo5YttnJEL9cCFmkmudigoDyp7x6lNV7lxAbY5eUw9sPd5B2zpf_"
+				target="_blank"><em>今天天气好</em>.心情也好.._百度知道</a>
+		</h3>
+		<p class="f13 m">6个回答 - 提问时间: 2012年03月28日</p>
+		<div class="c-abstract">
+			<p>
+				<span class="m">问题描述: </span>哪有冷笑话??
+			</p>
+			<span class="m">最佳答案: </span>大家心情都<em>不错</em>啊
+		</div>
+		<div class="f13">
+			<span class="g">zhidao.baidu.com/link?...nbsp;2012-03-28nbsp;</span>
+			<div class="c-tools" id="tools_8742617529610143024_18"
+				data-tools='{"title":"今天天气好.心情也好.._百度知道 ","url":"http://www.baidu.com/link?url=EdizAhu7kLb6lcyueEwdSgPLjbHRKIszvruo5YttnJEL9cCFmkmudigoDyp7x6lNV7lxAbY5eUw9sPd5B2zpf_"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f3567d27c622341914165834af49d0132c157c107b6b25aa0edb174c8f38eced95653c8520e7e81f79c5a774e8c30aep=aa769a478b8213f508e2977d0a429cnewp=9766c40785cc43b708e2977d0a0a9123161cda386a848d0a3b8fd125966043user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=18"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DEdizAhu7kLb6lcyueEwdSgPLjbHRKIszvruo5YttnJEL9cCFmkmudigoDyp7x6lNV7lxAbY5eUw9sPd5B2zpf_jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03.%01%E5%BF%83%E6%83%85%01%E4%B9%9F%E5%A5%BD%01.%01.%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">87%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="19" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EB',			'F1':'9D73F1C4',			'F2':'4CA6DE6B',			'F3':'54E5343E',			'T':'1415630053',						'y':'3F9EFFF6'			 									}"
+				href="http://www.baidu.com/link?url=86pHuBw5vgMOaD2WB3aRLmS9mkVsXnm8kAHfK85cDBhGM4aqicYpbCLfniCVDnmhUfcO1JnbNMQGuC5v-IlwXq"
+				target="_blank">喂 你那里<em>今天天气好</em>吗
+			</a>
+		</h3>
+		<div class="c-abstract">
+			你<em>今天</em>吃了什么?你那里<em>天气</em>怎么样?wx或者企鹅都是2990488394 删除 赞 回应 化...不知道会不会喜欢,试试?实习?那很<em>不错</em>阿,棒 比较柔和那种……不知道会不会...
+		</div>
+		<div class="f13">
+			<span class="g">www.douban.com/group/t...nbsp;2014-11-01nbsp;</span>
+			<div class="c-tools" id="tools_2718896149641680109_19"
+				data-tools='{"title":"喂 你那里今天天气好吗 ","url":"http://www.baidu.com/link?url=86pHuBw5vgMOaD2WB3aRLmS9mkVsXnm8kAHfK85cDBhGM4aqicYpbCLfniCVDnmhUfcO1JnbNMQGuC5v-IlwXq"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f356acd6223706bd01c55834af3dc4652907dcf47bcef44a0f8ed74ceec8982c25054c951017886f596p=882a9e4e96904ead0cb9cd204d59newp=98769a478b8207be08e29f75585592695c02dc3051d4d6122295d559user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=19"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D86pHuBw5vgMOaD2WB3aRLmS9mkVsXnm8kAHfK85cDBhGM4aqicYpbCLfniCVDnmhUfcO1JnbNMQGuC5v-IlwXqjump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01%E5%96%82%01%20%01%E4%BD%A0%01%E9%82%A3%E9%87%8C%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E5%A5%BD%03%E5%90%97%01%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+	</div>
+	<div class="result c-container " id="20" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }">
+		<h3 class="t">
+			<a
+				data-click="{			'F':'778317EA',			'F1':'9D73F1C4',			'F2':'4CA6DE6B',			'F3':'54E5343F',			'T':'1415630053',						'y':'CEFE7FDF'			 									}"
+				href="http://www.baidu.com/link?url=ndmSg-ATjS4SBzDC9O9gYnrligbDfsCboElZXGdRO07SWQ6LNjBNMMbRH8PpFeT8"
+				target="_blank"><em>今天天气不错</em>。</a>
+		</h3>
+		<div class="c-abstract">
+			咆哮组!!! (2389) 瘦脸达人 瘦脸达人 (99406) 再也不要异地恋 再也不要异地恋 (2188) 订阅<em>今天天气不错</em>。的收藏: feed: rss 2.0举报不良信息...
+		</div>
+		<div class="f13">
+			<span class="g">www.douban.com/people/...nbsp;2013-10-07nbsp;</span>
+			<div class="c-tools" id="tools_16440067040563999488_20"
+				data-tools='{"title":"今天天气不错。 ","url":"http://www.baidu.com/link?url=ndmSg-ATjS4SBzDC9O9gYnrligbDfsCboElZXGdRO07SWQ6LNjBNMMbRH8PpFeT8"}'>
+				<a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a>
+			</div>
+			<span class="c-icons-outer"><span class="c-icons-inner"></span></span>nbsp;-nbsp;<a
+				href="http://cache.baiducontent.com/c?m=9d78d513d9d431d94f9997697c67c011684381132ba6a10208a5843997732f4b506793ac57220774a3d27d1716df4f4b9d862235775d2feddd8eca5ddcc88f356acd6223706bd01c55834af3dc4652907dcf47abf844a5e4a72f97acd4d0db5353cc4ep=8b2a9715d9c843f72ab6c3661b05newp=89769a47c7934ea45afccf641e0a92695d0fc20e3bd7db04user=baidufm=scquery=%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDqid=e991ae4c00053afdp1=20"
+				target="_blank" class="m">百度快照</a><span>nbsp;-nbsp;<a
+				href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DndmSg-ATjS4SBzDC9O9gYnrligbDfsCboElZXGdRO07SWQ6LNjBNMMbRH8PpFeT8jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E4%BB%8A%E5%A4%A9%01%E5%A4%A9%E6%B0%94%01%E4%B8%8D%01%E9%94%99%03%E3%80%82%01%20%01%26q%3D%BD%F1%CC%EC%CC%EC%C6%F8%B2%BB%B4%EDkey=surl"
+				target="_blank" class="m">89%好评</a></span>
+		</div>
+	</div>
+</div>
+<div style="clear: both; height: 0;"></div>

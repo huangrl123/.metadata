@@ -1,0 +1,7 @@
+package com.dahuangit.seobi.analyzer.service;
+
+public interface AnalyzeService {
+
+	void searchFromBaiduAndSaveResult();
+
+}

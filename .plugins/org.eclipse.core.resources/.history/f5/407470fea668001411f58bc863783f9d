@@ -1,0 +1,5 @@
+package com.dahuangit.seobi.analyzer.controller;
+
+public class SearchController {
+
+}

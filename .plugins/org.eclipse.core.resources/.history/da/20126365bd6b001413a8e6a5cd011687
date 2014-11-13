@@ -1,0 +1,15 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import com.dahuangit.base.entry.BaseModel;
+
+/**
+ * qq说说搜索关联关键字
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月14日 上午11:20:51
+ */
+
+public class QQShuoshuoRelatedSearchKey extends BaseModel {
+   
+}

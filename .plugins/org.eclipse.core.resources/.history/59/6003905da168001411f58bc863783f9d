@@ -1,0 +1,6 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import com.dahuangit.base.entry.BaseModel;
+
+public class SearchInfo extends BaseModel {
+}

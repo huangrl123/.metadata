@@ -1,0 +1,111 @@
+package com.dahuangit.seobi.analyzer.entry;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import com.dahuangit.base.entry.BaseModel;
+// PRIMARY KEY (`si_id`),
+// KEY `FK_t_search_info_1` (`tm_id`),
+// CONSTRAINT `FK_t_search_info_1` FOREIGN KEY (`tm_id`) REFERENCES
+// `t_talk_msg` (`TM_ID`)
+// ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='搜索信息';
+
+@Entity
+@Table(name = "t_search_info")
+public class SearchInfo extends BaseModel {
+	// -- ----------------------------
+	// DROP TABLE IF EXISTS `t_search_info`;
+	// CREATE TABLE `t_search_info` (
+	// `si_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+	@Column(name = "")
+	private Integer sid = null;
+
+	// `tm_id` int(11) NOT NULL COMMENT '说说信息',
+	private Integer tmId;
+
+	// `search_title` varchar(128) NOT NULL COMMENT '搜索标题',
+	private String searchTitle = null;
+
+	// `content` varchar(256) NOT NULL COMMENT '搜索出的内容',
+	private String content = null;
+
+	// `url` varchar(128) NOT NULL COMMENT '地址',
+	private String url = null;
+
+	// `se_time` datetime NOT NULL COMMENT '搜索引擎爬虫获取信息的时间',
+	private Date seTime = null;
+
+	// `last_modify_time` datetime NOT NULL COMMENT '最后修改时间',
+	private Date lastModifyTime = null;
+
+	// `remark` varchar(45) DEFAULT NULL COMMENT '备注信息',
+	private String remark;
+
+	public Integer getSid() {
+		return sid;
+	}
+
+	public void setSid(Integer sid) {
+		this.sid = sid;
+	}
+
+	public Integer getTmId() {
+		return tmId;
+	}
+
+	public void setTmId(Integer tmId) {
+		this.tmId = tmId;
+	}
+
+	public String getSearchTitle() {
+		return searchTitle;
+	}
+
+	public void setSearchTitle(String searchTitle) {
+		this.searchTitle = searchTitle;
+	}
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+
+	public Date getSeTime() {
+		return seTime;
+	}
+
+	public void setSeTime(Date seTime) {
+		this.seTime = seTime;
+	}
+
+	public Date getLastModifyTime() {
+		return lastModifyTime;
+	}
+
+	public void setLastModifyTime(Date lastModifyTime) {
+		this.lastModifyTime = lastModifyTime;
+	}
+
+	public String getRemark() {
+		return remark;
+	}
+
+	public void setRemark(String remark) {
+		this.remark = remark;
+	}
+
+}

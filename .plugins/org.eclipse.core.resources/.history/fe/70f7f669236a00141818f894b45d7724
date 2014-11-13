@@ -1,0 +1,51 @@
+package com.dahuangit.seobi.proxy.util;
+
+import java.io.IOException;
+import java.net.SocketException;
+
+import org.apache.commons.lang.Validate;
+import org.apache.log4j.Logger;
+
+import com.dahuangit.seobi.proxy.entry.Proxy;
+import com.dahuangit.util.log.Log4jUtils;
+import com.dahuangit.util.net.TelnetUtils;
+
+public class ProxyUtils {
+
+	protected static final Logger log = Log4jUtils.getLogger(ProxyUtils.class);
+
+	/**
+	 * 测试代理服务器是否可用
+	 * 
+	 * @param hostname
+	 * @param port
+	 * @param connectTimeout
+	 * @return
+	 * @throws SocketException
+	 * @throws IOException
+	 */
+	public static Proxy testProxy(Proxy proxy, int connectTimeout) throws SocketException, IOException {
+		String hostname = proxy.getProxyIp();
+		Integer port = proxy.getProxyPort();
+		
+		Validate.notNull(hostname, "proxy.getProxyIp()不能为null");
+		Validate.notNull(port, "proxy.getProxyPort()不能为null");
+		
+		//telnet测试
+		boolean isAvailable = TelnetUtils.isAvailableServer(hostname, port, connectTimeout);
+
+		//http get测试
+		boolean isHttpGetAvailable = false;
+		
+		//http post测试
+		boolean isHttpPostAvailable = false;
+		
+		log.info("测试结果:" + (isAvailable == true ? "可用" : "不可用"));
+
+		return isAvailable;
+	}
+
+	public static boolean isAvailableProxy(Proxy proxy) throws SocketException, IOException {
+		return isAvaliableServer(proxy, 10 * 1000);
+	}
+}

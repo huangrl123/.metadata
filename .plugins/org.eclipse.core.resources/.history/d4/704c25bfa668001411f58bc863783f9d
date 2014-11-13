@@ -1,0 +1,8 @@
+package com.dahuangit.seobi.analyzer.dao;
+
+import com.dahuangit.base.dao.BaseDao;
+import com.dahuangit.seobi.analyzer.entry.RelatedSearchKey;
+
+public class RelatedSearchKeyDao extends BaseDao<RelatedSearchKey, Integer> {
+
+}

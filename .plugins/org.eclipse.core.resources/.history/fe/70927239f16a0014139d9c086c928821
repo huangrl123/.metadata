@@ -1,0 +1,79 @@
+package com.dahuangit.util;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class HttpKitTest {
+
+	@Test
+	public void testIsProxyServerHttpGetAvailable() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsProxyServerHttpPostAvailable() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetHttpRequestContentStringMapOfStringStringString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetHttpRequestContentStringMapOfStringStringMapOfStringFileString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDownloadFileByHttp() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDownloadFileByHttpGet() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetInputStreamByHttp() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetHttpRequestContentStringString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDoHttpRequestStringMapOfStringString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDoHttpRequestStringString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDoHttpRequestString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testRequestWebservice() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDoPostByProxy() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDoGetByProxy() {
+		fail("Not yet implemented");
+	}
+
+}

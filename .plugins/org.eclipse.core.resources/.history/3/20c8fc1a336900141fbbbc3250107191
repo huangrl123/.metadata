@@ -1,0 +1,12 @@
+package com.dahuangit.util.xml;
+
+/**
+ * xpath查询相关的工具类
+ * 
+ * @author 黄仁良
+ * 
+ *         创建时间 2014年11月11日 上午7:41:19
+ */
+public class XpathUtils {
+
+}

@@ -5,8 +5,8 @@
 	<item value="0" key="com.spket.jsformatter_page.modify_dialog_tab_page.last_focus_index"/>
 	<item value="1013" key="com.spket.jsformatter_pagemodify_dialog.preferred_width"/>
 	<item value="0" key="com.spket.jsformatter_page.white_space_tab_page.node"/>
-	<item value="6" key="com.spket.jsformatter_pagemodify_dialog.last_focus"/>
 	<item value="0" key="com.spket.jsformatter_page.white_space.java_view.inner"/>
+	<item value="6" key="com.spket.jsformatter_pagemodify_dialog.last_focus"/>
 	<item value="0" key="com.spket.jsformatter_pagemodify_dialog.preferred_y"/>
 	<item value="0" key="com.spket.jsformatter_pagemodify_dialog.preferred_x"/>
 	<section name="completion_proposal_size">
