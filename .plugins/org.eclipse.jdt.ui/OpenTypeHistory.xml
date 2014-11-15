@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=dahuangit-base/src\/main\/java&lt;com.dahuangit.base.entry{BaseModel.java[BaseModel" modifiers="1025" timestamp="1415462041422"/>
-<typeInfo handle="=seobi-analyzer/src\/main\/java&lt;com.dahuangit.seobi.analyzer.service{AnalyzeService.java[AnalyzeService" modifiers="513" timestamp="1415954556748"/>
+<typeInfo handle="=seobi-analyzer/src\/main\/java&lt;com.dahuangit.seobi.analyzer.service{AnalyzeService.java[AnalyzeService" modifiers="513" timestamp="1416010225599"/>
 <typeInfo handle="=dahuangit-base/src\/main\/java&lt;com.dahuangit.base.dao{BaseDao.java[BaseDao" modifiers="1" timestamp="1415797026381"/>
 <typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/commons-lang\/commons-lang\/2.5\/commons-lang-2.5.jar&lt;org.apache.commons.lang(StringUtils.class[StringUtils" modifiers="33" timestamp="1301289872000"/>
 <typeInfo handle="=dahuangit-base/D:\/apache-maven-3.0.5\/.m2\/repository\/org\/jodd\/jodd-core\/3.4.2\/jodd-core-3.4.2.jar&lt;jodd.util(MathUtil.class[MathUtil" modifiers="33" timestamp="1366590650390"/>
